@@ -8,6 +8,7 @@ green
 red
 yellow
 unicorn
+indigo
 these are the colour of rainbow
 and the unicorn
 ponnies
